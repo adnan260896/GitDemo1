@@ -61,6 +61,7 @@ public class CalenderDemo1 {
 		driver.findElement(By.xpath("//div[@data-testid='undefined-month-August-2023']/div[3]/div[4]/div[6]")).click();
 		
 		System.out.println("Data is selected successfully");
+		System.out.println("Test case is successfully completed");
 		
 		
 		
